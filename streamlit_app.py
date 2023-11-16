@@ -139,7 +139,7 @@ def preference_ui():
 	## Instructions
 	You will be provided with
 	- a textual description (in blue),
-	- one guide image: This time, guide image represents position, size and orientation of objects in the 3D space,
+	- one guide image: This time, guide image has boxes that represent position, size and orientation of objects in the 3D space (NOT the shape),
 	- and two test images.
 
 	Please select the image that you prefer for the given textual description and the guide by clicking the checkbox below it.
